@@ -1,0 +1,24 @@
+.pending{
+    background: color #00f;
+    border:solid 1px #00f;
+color: #00f;
+padding: 15px;
+border-radius: 12px;
+}
+.confirmed{
+    background-color: #00f3;
+    border: solid 1px #0f0; 
+    color: #0f0;
+    padding: 15px;
+    border-radius: 12px;
+}
+.cancelled {
+    background-color: #f003;
+    border: solid 1px rgb(30, 0, 0); 
+    color: rgb(255, 0, 8);
+    padding: 15px;
+    border-radius: 12px;
+
+}
+
+
